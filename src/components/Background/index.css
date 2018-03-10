@@ -1,0 +1,16 @@
+.bgImage {
+    /* set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px;
+
+    /*set up proportionate scaling */
+    width: 100%;
+    height: auto;
+
+    /* set up positioning*/
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    z-index: -1;
+}

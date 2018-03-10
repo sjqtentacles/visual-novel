@@ -1,0 +1,15 @@
+{
+    "messages": [
+        {"left": "hello from one"},
+        {"right": "hello from two"},
+        {"right": "second message"}
+    ],
+    "left_character": {
+        "img": "cutegirlwithheadphone.svg",
+        "name": "Girly"
+    },
+    "right_character": {
+        "img": "squirtle.svg",
+        "name": "Squirtle"
+    }
+}
